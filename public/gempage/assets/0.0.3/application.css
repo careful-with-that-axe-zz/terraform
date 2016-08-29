@@ -1,0 +1,136 @@
+body {
+  font: normal 15px/1.5 Verdana, Geneva, sans-serif; }
+
+a {
+  text-decoration: none;
+  color: #113F8C; }
+
+.gem-section {
+  margin: 30px;
+  overflow: auto; }
+
+.gem-group-heading {
+  float: left;
+  overflow: auto;
+  border-top: 1px solid #e3e3e3;
+  border-left: 1px solid #e3e3e3;
+  padding-bottom: 30px;
+  margin-top: 15px; }
+
+.gem-group-heading h4 {
+  font-size: 20px;
+  line-height: 1.5;
+  padding: 0 30px; }
+
+.gem-group {
+  width: 95%;
+  float: left;
+  margin: -30px 0 0 60px;
+  overflow: auto; }
+
+.gems {
+  overflow: auto;
+  margin: 20px 50px; }
+
+.main-gem {
+  position: relative;
+  float: left;
+  width: 220px;
+  height: 160px; }
+
+.gem {
+  position: absolute;
+  width: 170px;
+  height: 110px;
+  border-radius: 10px;
+  overflow: hidden;
+  padding: 10px;
+  border: 3px solid #616161;
+  color: #616161; }
+  .gem a {
+    color: #616161; }
+  .gem h4 {
+    font: bold 15px Verdana;
+    line-height: 1.2;
+    padding: 10px 0 5px 10px;
+    margin: 0; }
+  .gem h3 {
+    font: bold 14px Verdana;
+    line-height: 1.2;
+    padding: 0 0 5px 10px;
+    margin: 0; }
+
+.icon {
+  font-size: 30px;
+  position: absolute;
+  font-weight: bold; }
+
+.documentation {
+  bottom: -28px;
+  left: -18px; }
+
+.github, .error {
+  bottom: -22px;
+  right: -23px; }
+
+.gem-color-error {
+  border: 3px solid #e54028 !important;
+  color: #e54028 !important; }
+  .gem-color-error a {
+    color: #e54028 !important; }
+
+.error {
+  color: #e54028; }
+.gem-color-1 {
+  border: 3px solid #113f8c;
+  color: #113f8c; }
+  .gem-color-1 a {
+    color: #113f8c; }
+
+.gem-color-2 {
+  border: 3px solid #32742c;
+  color: #32742c; }
+  .gem-color-2 a {
+    color: #32742c; }
+
+.gem-color-3 {
+  border: 3px solid #f18d05;
+  color: #f18d05; }
+  .gem-color-3 a {
+    color: #f18d05; }
+
+.gem-color-4 {
+  border: 3px solid #d70060;
+  color: #d70060; }
+  .gem-color-4 a {
+    color: #d70060; }
+
+.gem-color-5 {
+  border: 3px solid #01a4a4;
+  color: #01a4a4; }
+  .gem-color-5 a {
+    color: #01a4a4; }
+
+.gem-color-6 {
+  border: 3px solid #61ae24;
+  color: #61ae24; }
+  .gem-color-6 a {
+    color: #61ae24; }
+
+.gem-color-7 {
+  border: 3px solid #00a1cb;
+  color: #00a1cb; }
+  .gem-color-7 a {
+    color: #00a1cb; }
+
+.gem-color-8 {
+  border: 3px solid #d0d102;
+  color: #d0d102; }
+  .gem-color-8 a {
+    color: #d0d102; }
+
+.gem-color-9 {
+  border: 3px solid #e54028;
+  color: #e54028; }
+  .gem-color-9 a {
+    color: #e54028; }
